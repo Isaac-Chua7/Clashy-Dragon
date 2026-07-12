@@ -1,19 +1,19 @@
-## Demo
+## 🎮 Demo
 
 <div align="center">
 
-### Menu Preview
+### 🏰 Main Menu
 
-<img src="Clashy-Dragon Assets/ClashyDragon_MenuClip.gif" width="500">
+<img src="Clashy-Dragon Assets/ClashyDragon_MenuClip.gif" alt="Clashy Dragon Main Menu" width="500">
 
-<br>
+<br><br>
 
-### Gameplay Preview
+### 🐉 Gameplay
 
 <a href="https://clashy-dragon.netlify.app/">
-  <img src="Clashy-Dragon Assets/ClashyDragon_GameplayClip2.gif" width="500">
+  <img src="Clashy-Dragon Assets/ClashyDragon_GameplayClip2.gif" alt="Clashy Dragon Gameplay" width="500">
 </a>
 
-*Click the thumbnail to play the game in the browser*
+**⬆️ Click the gameplay preview to play Clashy Dragon in your browser!**
 
 </div>
