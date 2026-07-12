@@ -18,7 +18,9 @@ A fast-paced, **Clash Royale-inspired** take on the classic **Flappy Bird** form
 
 ### 🏰 Main Menu
 
-<img src="Clashy-Dragon Assets/ClashyDragon_MenuClip.gif" alt="Clashy Dragon Main Menu" width="500">
+<a href="https://clashy-dragon.netlify.app/">
+  <img src="Clashy-Dragon Assets/ClashyDragon_MenuClip.gif" alt="Clashy Dragon Main Menu" width="500">
+</a>
 
 <br><br>
 
